@@ -1,0 +1,23 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Menu */
+.menu {
+    background: #0c3767;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.menu ul li a:hover{
+    text-decoration: none;
+    color: #114fb1;
+}
+
+.produtos {
+    margin-bottom: 20px;
+}
+
