@@ -1,0 +1,31 @@
+{
+  "produtos": [
+    {
+      "ID": 1,
+      "codigo_de_barras": "123456789012",
+      "descricao": "Produto 1",
+      "preco_de_varejo": 10.99,
+      "preco_de_atacado": 8.50,
+      "estoque": 100,
+      "data_da_ultima_compra": "2023-08-09"
+    },
+    {
+      "ID": 2,
+      "codigo_de_barras": "234567890123",
+      "descricao": "Produto 2",
+      "preco_de_varejo": 15.99,
+      "preco_de_atacado": 12.50,
+      "estoque": 200,
+      "data_da_ultima_compra": "2023-07-29"
+    },
+    {
+      "ID": 3,
+      "codigo_de_barras": "345678901234",
+      "descricao": "Produto 3",
+      "preco_de_varejo": 20.99,
+      "preco_de_atacado": 16.50,
+      "estoque": 50,
+      "data_da_ultima_compra": "2023-08-01"
+    }
+  ]
+}
