@@ -1,0 +1,63 @@
+header {
+    background-color: #fefdfc;
+}
+
+#mobile_menu {
+    display: none;
+}
+
+#mobile_menu #menuHamburgue {
+    font-size: 2em;
+}
+
+#mobile_menu #menuHamburgue .nav_menu{
+    display: flex;
+}
+
+#mega-menu .nav_menu .registra_entra{ 
+    display: flex;
+    justify-content: center;
+}
+
+#mega-menu .nav_menu .registra_entra .button_login {
+    background-color: #2321152a;
+}
+
+.button_registra {
+    background-color: #FF0000;
+}
+
+#mega-menu .nav_menu .registra_entra .button_login,
+.button_registra{ 
+    width: 200px;
+    text-align: center;
+    margin: 1em;
+}
+
+.button_logar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.divisao {
+    border: none;
+    height: 100%;
+    border-top: 1px solid #cccccc8e;
+}
+
+
+/* Para telas maiores que 768px (desktop) */
+@media (max-width: 767px) {
+    #mobile_menu {
+        display: flex; 
+    }
+
+    .button_logar {
+        display: none;
+    }
+}
+@media (min-width: 767px) {
+    #mega-menu {
+        display: none; 
+    }
+}
