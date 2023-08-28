@@ -1,0 +1,9 @@
+#fundo_conteudo {
+    background: url('./../../../assets/img/fundo.jpeg') no-repeat;
+    background-position: center;
+    background-size: 99.9%;
+    background-color: rgba(0, 0, 0, 0.808);
+    border-radius: 8px;
+    margin-top: 7em;
+    height: 550px;
+}
