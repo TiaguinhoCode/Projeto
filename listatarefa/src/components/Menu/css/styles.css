@@ -7,7 +7,7 @@ header {
 }
 
 #mobile_menu {
-    display: none;
+    display: flex;
 }
 
 #mobile_menu #menuHamburgue {

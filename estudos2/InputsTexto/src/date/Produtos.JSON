@@ -1,0 +1,28 @@
+[
+    {
+        "urlImage": "https://exemplo.com/imagem1.jpg",
+        "id": "507f1f77bcf86cd799439011",
+        "reference": "ABC123",
+        "value": 100.5,
+        "stock": 10,
+        "description": "CAPA IPhone 11"
+    },
+    
+    {
+        "urlImage": "https://exemplo.com/imagem2.jpg",
+        "id": "507f191e810c19729de860ea",
+        "reference": "XYZ456",
+        "value": 200.0,
+        "stock": 5,
+        "description": "Caixa de som kimaster"
+    },
+
+    {
+        "urlImage": "https://exemplo.com/imagem3.jpg",
+        "id": "507f1f77bcf86cd799439022",
+        "reference": "LMN789",
+        "value": 150.75,
+        "stock": 8,
+        "description": "pelicula 3D"
+    }
+]

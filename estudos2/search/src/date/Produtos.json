@@ -1,0 +1,55 @@
+[
+    {
+        "urlImage": "https://cdn.awsli.com.br/600x450/1872/1872848/produto/91097800/3613ec24c2.jpg",
+        "id": "KT604X",
+        "cx_und": "100und",
+        "value": 24.00,
+        "stock": 500,
+        "description": "Carregador Typ-C 1USB"
+    },
+
+    {
+        "urlImage": "https://cdn.awsli.com.br/600x450/1872/1872848/produto/91097800/3613ec24c2.jpg",
+        "id": "KT604X",
+        "cx_und": "100und",
+        "value": 24.00,
+        "stock": 500,
+        "description": "Carregador Typ-b 1USB"
+    },
+
+    {
+        "urlImage": "https://reatacado.com.br/image/cache/catalog/products/2023/02/171005/Embalagem%202-500x500.jpg",
+        "id": "TWS350",
+        "cx_und": "100und",
+        "value": 85.00,
+        "stock": 500,
+        "description": "Fone TWS350"
+    },
+
+    {
+        "urlImage": "https://http2.mlstatic.com/D_NQ_NP_617771-MLB45812119673_052021-O.webp",
+        "id": "TWS100",
+        "cx_und": "100und",
+        "value": 65.00,
+        "stock": 500,
+        "description": "Fone TWS100"
+    },
+
+    {
+        "urlImage": "https://cdnv2.moovin.com.br/technohaus/imagens/produtos/det/headphone-bluetooth-ajustavel-com-microfone-elite-k9-kimaster-preto-6395d0908b14d7948cb36cb99617f06c.jpg",
+        "id": "K9",
+        "cx_und": "100und",
+        "value": 85.00,
+        "stock": 500,
+        "description": "Fone K9"
+    },
+
+    {
+        "urlImage": "https://cdnv2.moovin.com.br/technohaus/imagens/produtos/det/headphone-bluetooth-ajustavel-com-microfone-elite-k9-kimaster-preto-6395d0908b14d7948cb36cb99617f06c.jpg",
+        "id": "K9",
+        "cx_und": "100und",
+        "value": 85.00,
+        "stock": 500,
+        "description": "jbl"
+    }
+]
